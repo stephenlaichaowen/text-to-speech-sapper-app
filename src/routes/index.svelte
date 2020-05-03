@@ -2,7 +2,7 @@
   import { onMount } from 'svelte'
 
   let speed = 1;
-  let text = "";
+  let text = "Many people say they have no choice but to embrace the changes, even as they come to terms with the loss of freedom and spontaneity.";
   let textInput;
   let speedInput 
   let speedDes = 'speed'
@@ -63,6 +63,7 @@
   function stop() {
     speechSynthesis.resume();
     speechSynthesis.cancel();
+    speedInput.disabled = true;
   }
 
   function changeSpeed() {

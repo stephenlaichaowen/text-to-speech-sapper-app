@@ -1,6 +1,6 @@
 # How to setup this project
 
-Create a directory, for example `sapper-app`
+Create a directory, for example `sapper-app`, then open with VSCode
 
 Clone this repo and and place under `sapper-app` directory
 

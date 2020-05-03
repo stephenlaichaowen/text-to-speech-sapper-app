@@ -1,4 +1,4 @@
-# Text to Speech Sapper Application
+# Text to Speech Application
 
 ## How to setup this project
 

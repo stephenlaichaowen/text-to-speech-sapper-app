@@ -1,4 +1,6 @@
-# How to setup this project
+# Text to Speech Sapper Application
+
+## How to setup this project
 
 Create a directory, for example `sapper-app`, then open with VSCode
 
